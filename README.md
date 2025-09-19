@@ -4,12 +4,7 @@
 
 **URL**: https://lovable.dev/projects/d6c560c1-a4d8-485a-945a-bb8cfc5fca2b
 
-## How can I edit this code?
 
-There are several ways of editing your application.
-
-
-Simply visit the (https://lovable.dev/projects/d6c560c1-a4d8-485a-945a-bb8cfc5fca2b) and start prompting.
 
 Changes  will be committed automatically to this repo.
 
@@ -59,11 +54,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/d6c560c1-a4d8-485a-945a-bb8cfc5fca2b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
